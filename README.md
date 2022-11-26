@@ -1,2 +1,2 @@
-# alphaxo-javafx
- Tic-Tac-Toe implementation using javafx with multiple A.I. opponent algorithm
+# AlphaXO
+ Tic-Tac-Toe game made in JAVA using JavaFX, with working minimax ai + dynamic programming
